@@ -15,6 +15,10 @@ Here is a link to a [second page](Page2.md) using **Page2.md**.
 
 Here it is again using **Page2.html**: [second page html](Page2.html).
 
+Here's a map of [world Heritage Sites](map_asia190925_2116.html)
+
+And here's a map of people's jobs in [Springfield](SpringfieldJobs.html) created by Kepler
+
 This is my own [MD cheatsheet](https://docs.google.com/document/d/18hS6WXrSIMhDxfp6HU9zBfol0VIdnrflbjjuD_mwwpY)
 
 Unordered:
