@@ -11,6 +11,12 @@ This is an ordered list:
 1. item second
 1. item third
 
+Here is a link to a [second page](Page2.md) using **Page2.md**.
+
+Here it is again using **Page2.html**: [second page html](Page2.html).
+
+This is my own [MD cheatsheet](https://docs.google.com/document/d/18hS6WXrSIMhDxfp6HU9zBfol0VIdnrflbjjuD_mwwpY)
+
 Unordered:
 * item first
     * item first, alpha
