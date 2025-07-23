@@ -30,3 +30,14 @@ Testing color text?
 * <span style="color:red">This text is red</span>
 * <span style="color:#0066cc">This text is blue</span>
 * <span style="color:green">This text is green</span>
+
+Second style for colored text:
+* <font color = ‘red’>red</font>
+* <font color = ‘green’>green</font>
+* <font color = ‘blue’>blue</font>
+
+Third style for colored text:
+* <p style="color:purple">This paragraph is purple</p>
+* <em style="color:orange">Emphasized orange text</em>
+* <strong style="color:darkblue">Bold dark blue text</strong>
+
