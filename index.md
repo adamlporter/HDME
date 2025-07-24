@@ -12,7 +12,7 @@ In today's class we learned about
 * how to use [kepler](https://kepler.gl/)
 
 This is an ordered list:
-1. item first
+1. item first 
 1. item second
 1. item third
 
