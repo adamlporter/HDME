@@ -1,3 +1,8 @@
+---
+layout: default
+title: My Page
+---
+
 # Heading 1
 
 ## Heading 2
@@ -20,6 +25,8 @@ Here's a map of [world Heritage Sites](map_asia190925_2116.html)
 And here's a map of people's jobs in [Springfield](SpringfieldJobs.html) created by Kepler
 
 <iframe style='width: 800px; height: 600px;' src='SpringfieldJobs.html'></iframe>
+
+<iframe style='width: 800px; height: 600px;' src='BikeDataKeplerMap.html'></iframe>
 
 This is my own [MD cheatsheet](https://docs.google.com/document/d/18hS6WXrSIMhDxfp6HU9zBfol0VIdnrflbjjuD_mwwpY)
 
