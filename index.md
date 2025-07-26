@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Page
+title: HDME
 ---
 
 # Heading 1
@@ -21,8 +21,6 @@ Here is a link to a [second page](Page2.md) using **Page2.md**.
 Here it is again using **Page2.html**: [second page html](Page2.html).
 
 Here's a map of [world Heritage Sites](map_asia190925_2116.html)
-
-And here's a map of people's jobs in [Springfield](SpringfieldJobs.html) created by Kepler
 
 <iframe style='width: 800px; height: 600px;' src='SpringfieldJobs.html'></iframe>
 
